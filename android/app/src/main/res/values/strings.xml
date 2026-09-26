@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tribal Scholarship Connect</string>
+    <string name="title_activity_main">Tribal Scholarship Connect</string>
+    <string name="package_name">org.tribal.scholarship</string>
+    <string name="custom_url_scheme">org.tribal.scholarship</string>
+</resources>
